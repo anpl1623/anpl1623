@@ -25,15 +25,17 @@ I’m an aspiring **Software Engineer** and **Cybersecurity Analyst**, currently
    - **Next.js**, **Prisma ORM**, **MySQL**, **Tailwind CSS**
    - Deployed on **Vercel** with serverless functions and dynamic routing
 
-2. **[FindMe](https://findme.co)**  
-   Real-time location sharing backend powering the product under [FindMe on LinkedIn](https://www.linkedin.com/company/findmeee)
-   - Custom **Node.js** API handling geolocation, session management, and real-time updates
-3. **Social Playlist Media**
+2. **Social Playlist Media**
     A social media app which allows users of all music providers to rate, collaborate, and upvote all on playlists
     - It is currently under development in Swift 
     - Not affiliated with any organization, just independent work!
     - Deploying to TestFlight for demos
 ---
+
+### Previous Employment
+1. **[FindMe](https://fyndme.net)**  
+   Developed major APIs for the backend powering the product under [FindMe on LinkedIn](https://www.linkedin.com/company/findmeee)
+   - Custom **Node.js** API handling geolocation, session management, and real-time updates, portfolio managament, authentication, and more!
 
 ### 🛠️ Past Projects
 
