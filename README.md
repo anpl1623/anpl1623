@@ -9,12 +9,12 @@
 
 ### 🔧 About Me
 
-I’m an aspiring **Software Engineer** and **Cybersecurity Analyst**, currently focused on **Fullstack** and **Backend Development**.
+I’m an aspiring **Software Engineer**, currently focused on **Fullstack** and **Backend Development**.
 
-- 💼 I’ve worked across application development, security-focused systems, and hardware-level design.
-- 🌱 I’m currently building production-grade apps using **Next.js**, **Node.js**, **Prisma**, and **MySQL**.
-- 🔒 I have experience in **cryptographic systems**, **packet-level inspection**, and **secure system design**.
-- 🛠 Previously worked on embedded systems using **STM32 microcontrollers** — still familiar with low-level embedded C workflows.
+- I’ve worked across application development, security-focused systems, and hardware-level design.
+- I’m currently building production-grade apps using a myriad of modern open source frameworks.
+- I have experience in **cryptographic systems**, **packet-level inspection**, and **secure system design**.
+- Previously worked on embedded systems using **STM32 microcontrollers** — still familiar with low-level embedded C workflows.
 
 ---
 
