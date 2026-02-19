@@ -33,9 +33,10 @@ I’m an aspiring **Software Engineer** and **Cybersecurity Analyst**, currently
 ---
 
 ### Previous Employment
+
 1. **[FindMe](https://fyndme.net)**  
    Developed major APIs for the backend powering the product under [FindMe on LinkedIn](https://www.linkedin.com/company/findmeee)
-   - Custom **Node.js** API handling geolocation, session management, and real-time updates, portfolio managament, authentication, and more!
+   - Custom **Node.js** API handling geolocation, session management, and real-time updates, portfolio management, authentication, and more!
 
 ### 🛠️ Past Projects
 
