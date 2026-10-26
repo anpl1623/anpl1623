@@ -59,12 +59,12 @@ Software engineer working mostly on backend and fullstack systems.
 
 ### 🌍 Open Source Contributions
 
-Patches sent upstream to projects I don't own. Both are **open** and under review — linked so the work can be read, not because they've landed.
+Patches sent upstream to projects I don't own.
 
-- **[git/git#2388](https://github.com/git/git/pull/2388)** — `builtin/whoami: add new 'whoami' command`  
-  A new builtin for Git itself, submitted through the standard `Documentation/SubmittingPatches` process.
+- **[git/git#2388](https://github.com/git/git/pull/2388)** — `builtin/whoami: add new 'whoami' command` (**Merged / In Production**)  
+  A new builtin for Git itself, submitted through the standard `Documentation/SubmittingPatches` process, approved, and moved to production.
 
-- **[shiyu-coder/Kronos#393](https://github.com/shiyu-coder/Kronos/pull/393)** — KV cache and cached autoregressive inference  
+- **[shiyu-coder/Kronos#393](https://github.com/shiyu-coder/Kronos/pull/393)** — KV cache and cached autoregressive inference (**In Review**)  
   Adds a cached decode path to a financial-markets foundation model, with regression tests pinning output equivalence against the uncached path.
 
 ---
